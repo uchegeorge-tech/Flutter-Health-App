@@ -29,6 +29,7 @@ https://youtu.be/zrIow38ErYY
 
 ## 📅 Day
 **Day 1**
+![Alt text](assets/images/day-one.png)
 
 ---
 
