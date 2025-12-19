@@ -1,9 +1,9 @@
 # Flutter 100 Days of Code 🚀  
-## Day 1 – Flutter Health Tracker App
+## Day 1 – Flutter Health App
 
 This is **Day 1** of my **Flutter 100 Days of Code** challenge.
 
-In this video, we design a **simple Home Screen UI** for a **Flutter Health Tracker App**.
+In this project, we create a **simple Home Screen UI** for a **Flutter Health App**.
 
 ---
 
@@ -35,4 +35,4 @@ https://youtu.be/zrIow38ErYY
 ## 🚀 Getting Started
 1. Clone the repository
    ```bash
-   git clone https://github.com/uchegeorge-tech/Flutter-Health-Tracker-App.git
+   git clone https://github.com/uchegeorge-tech/Flutter-Health-App.git
